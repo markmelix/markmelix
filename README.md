@@ -1,0 +1,3 @@
+### About me
+
+Hi there! I'm Mark and I'm a passionate backend developer. My journey started in childhood, tinkering with \*nix systems and sketching out websites for fun. At 16, I joined Yandex Lyceum, where—after being recognized as one of the top students—our teacher challenged us to create an IoT infrastructure for cabinet automation. That’s how [SmartCab](https://github.com/smart-cab) was born. Later, while studying at Central University, I tried myself as an entrepreneur building a fast way to integrate Loyalty Platforms for small businesses—[Ballkit](https://ballkit.ru). Today, I’m eager to push my skills further in Distributed Systems development.
