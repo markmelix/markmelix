@@ -1,17 +1,12 @@
-<h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">A passionate Backend Developer</h3>
+<h3 align="left">Hi there! 👋</h3>
 
 ###
 
-<h4 align="center">About me</h3>
+I'm Mark, a passionate Backend Developer. My journey started in childhood, tinkering with \*nix systems and sketching out websites for fun. At 16, I joined Yandex Lyceum, where—after being recognized as one of the top students—our teacher challenged us to create an IoT infrastructure for cabinet automation. That’s how [SmartCab](https://github.com/smart-cab) was born. Later, while studying at Central University, I tried myself as an entrepreneur building a fast way to integrate Loyalty Platforms for small businesses—[Ballkit](https://ballkit.ru). Today, I’m eager to push my skills further in Distributed Systems development.
 
 ###
 
-My journey started in childhood, tinkering with \*nix systems and sketching out websites for fun. At 16, I joined Yandex Lyceum, where—after being recognized as one of the top students—our teacher challenged us to create an IoT infrastructure for cabinet automation. That’s how [SmartCab](https://github.com/smart-cab) was born. Later, while studying at Central University, I tried myself as an entrepreneur building a fast way to integrate Loyalty Platforms for small businesses—[Ballkit](https://ballkit.ru). Today, I’m eager to push my skills further in Distributed Systems development.
-
-###
-
-<h4 align="center">Skills</h3>
+<h3 align="left">Skills</h3>
 
 ###
 
@@ -85,10 +80,10 @@ My journey started in childhood, tinkering with \*nix systems and sketching out 
 
 ###
 
-<h4 align="center">Stats</h3>
+<h3 align="left">Stats</h3>
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=markmelix&show_icons=true&theme=dark&locale=en&layout=compact" alt="markmelix" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=markmelix&show_icons=true&theme=dark&locale=en" alt="markmelix" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markmelix&show_icons=true&theme=dark&locale=en" alt="markmelix" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=markmelix&show_icons=true&theme=dark&locale=en&layout=compact" alt="markmelix" /></p>
