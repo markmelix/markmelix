@@ -84,8 +84,7 @@ I'm Mark, a passionate Backend Developer. My journey started in childhood, tinke
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=markmelix&show_icons=true&theme=dark&locale=en" alt="markmelix" /></p>
+<p><img align="left" src="https://raw.githubusercontent.com/markmelix/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="markmelix" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=markmelix&show_icons=true&theme=dark&locale=en&layout=compact" alt="markmelix" /></p>
-
+<p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/markmelix/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="markmelix" /></p>
 
