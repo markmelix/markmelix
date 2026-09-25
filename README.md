@@ -2,7 +2,7 @@
 
 ###
 
-I'm Mark, a passionate Backend Developer. My journey started in childhood, tinkering with \*nix systems and sketching out websites for fun. At 16, I joined Yandex Lyceum, where our teacher challenged us to create an IoT infrastructure for cabinet automation. That’s how [SmartCab](https://github.com/smart-cab) was born. Later, while studying at Central University, I tried building a fast way to integrate Loyalty Platforms for small businesses—Ballki. Today, I’m eager to push my skills further in Distributed Systems development.
+I'm Mark, a passionate Backend Developer. My journey started in childhood, tinkering with \*nix systems and sketching out websites for fun. At 16, I joined Yandex Lyceum, where our teacher challenged us to create an IoT infrastructure for cabinet automation. That’s how [SmartCab](https://github.com/smart-cab) was born. Later, while studying in Central University, I was working on a fast way to integrate Loyalty Platforms for small businesses—Ballkit. Today, I’m eager to push my skills further in Distributed Systems development.
 
 ###
 
